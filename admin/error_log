@@ -1,0 +1,8 @@
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: id in /home/w4t7f0rko8cq/public_html/admin/edit_product.php on line 55
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: name in /home/w4t7f0rko8cq/public_html/admin/edit_product.php on line 82
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: currency in /home/w4t7f0rko8cq/public_html/admin/edit_product.php on line 105
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: original_price in /home/w4t7f0rko8cq/public_html/admin/edit_product.php on line 111
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: selling_price in /home/w4t7f0rko8cq/public_html/admin/edit_product.php on line 117
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: about in /home/w4t7f0rko8cq/public_html/admin/edit_product.php on line 123
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: files in /home/w4t7f0rko8cq/public_html/admin/edit_product.php on line 125
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: files in /home/w4t7f0rko8cq/public_html/admin/edit_product.php on line 128

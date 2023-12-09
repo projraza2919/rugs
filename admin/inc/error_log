@@ -1,0 +1,2 @@
+[14-Oct-2021 11:24:09 UTC] PHP Notice:  Undefined index: basefile in /home/w4t7f0rko8cq/public_html/admin/inc/add_product.php on line 32
+[18-Oct-2021 18:08:55 UTC] PHP Notice:  Undefined variable: id in /home/w4t7f0rko8cq/public_html/admin/inc/edit_product.php on line 26
